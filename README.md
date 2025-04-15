@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Soumyajit Sadhukhan<br><br>🎓 I'm a 1st-year B.Tech CSE student passionate about building cool tech stuff!  <br>🌱 Currently learning:  DSA In C++ ,Web Development ,AI/Ml<br> 🛠  Languages: Python, C, C++<br>
+# 👋 Hi, I'm Soumyajit Sadhukhan<br><br>🎓 I'm a 1st-year B.Tech CSE student passionate about building cool tech stuff!  <br>🌱 Currently learning:  DSA In C++ ,Web Development ,AI/ML<br> 🛠  Languages: Python, C, C++<br>
 
 
 ## 🌐 Socials:
