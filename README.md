@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Engineer;GenAI%20%26%20Backend%20Developer;Agentic%20AI%20Builder&font=Fira%20Code&center=true&width=650&height=90&color=58a6ff&vCenter=true&size=32">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=GenAI%20%26%20Backend%20Developer;Agentic%20AI%20Builder&font=Fira%20Code&center=true&width=650&height=90&color=58a6ff&vCenter=true&size=32">
   </a>
 </p>
 
@@ -32,18 +32,4 @@ width="280"/>
 - LangGraph over black-box frameworks
 
 ---
-
-### 💻 Tech Stack
-<div align="center">
-
-| Category | Technologies |
-| :-: | :- |
-| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> |
-| **AI / GenAI** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> LangChain · LangGraph · CrewAI |
-| **Backend / APIs** | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/> |
-| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> | |
-| **Tools** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/> |
-| **IDEs** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/> |
-
-</div>
 
