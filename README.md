@@ -1,17 +1,25 @@
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=140&section=header&text=&fontSize=0&animation=fadeIn&bg=0D1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003B00,50:00FF41,100:003B00&height=160&section=header&text=&fontSize=0&animation=fadeIn"/>
 
-  <div align="center">
+<div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=600&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%5BSYSTEM+BOOT%5D+Initializing+profile...;%5BAUTH%5D+Identity+verified+%E2%9C%93;%5BLOAD%5D+Soumyajit+Sadhukhan+%E2%80%94+ONLINE" alt="Boot Sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1200&pause=400&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=620&height=120&lines=%5BSYSTEM+BOOT%5D+Initializing+profile...............+OK;%5BAUTH%5D+Identity+verified+%E2%9C%93..............................+OK;%5BLOAD%5D+Modules%3A+LangChain+%7C+LangGraph+%7C+CrewAI....+OK;%5BREADY%5D+Soumyajit+Sadhukhan+%E2%80%94+ONLINE+%F0%9F%9F%A2" alt="Boot Sequence"/>
 
-  <br/>
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=700&height=70&lines=GenAI+%26+Backend+Developer;Agentic+AI+Engineer;LLM+Orchestration+Specialist" alt="Role Typing" />
+---
 
-  <br/>
-  
- ![Profile Views](https://komarev.com/ghpvc/?username=Soumyajit-io&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
 
+<div align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=00FF41&background=00000000&center=false&vCenter=true&width=560&height=65&lines=GenAI+%26+Backend+Developer;Agentic+AI+Engineer;LLM+Orchestration+Specialist;RAG+Pipeline+Architect;Multi-Agent+Systems+Builder" alt="Role Typing"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Soumyajit-io&color=00FF41&style=flat-square&label=PROFILE+VIEWS)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Soumyajit-io?color=00FF41&style=flat-square&logo=github&label=FOLLOWERS)
+
+<br/>
  
  
   ```
@@ -21,16 +29,15 @@
   ╚══════════════════════════════════════════════════════════════════╝
   ```
 
-  <br/>
+ <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyajit-sadhukhan/)
-  [![Email](https://img.shields.io/badge/Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:soumyajit010805@gmail.com)
-  
-  <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyajit-sadhukhan/)
+[![Gmail](https://img.shields.io/badge/Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:soumyajit010805@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Soumyajit--io-161b22?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Soumyajit-io)
 
- 
+</div>
 
-  </div>
+<br clear="right"/>
 
   ---
 
@@ -199,7 +206,24 @@
 </table>
 
 </div>
+  ---
 
+## `$ git log --oneline --graph`
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Soumyajit-io&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00CC33&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true"/>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajit-io&layout=compact&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Soumyajit-io&theme=terminal&background=0D1117&border=00FF41&stroke=00FF41&ring=00CC33&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=00CC33&dates=888888&font=Fira+Code)](https://git.io/streak-stats)
+
+</div>
+  
   ---
 
   ## `$ watch contribution_graph --live`
@@ -216,6 +240,18 @@
 
   ---
 
+## `$ ps aux | grep soumyajit`
+
+```bash
+PID   PROCESS                        STATUS     STARTED
+001   multi-agent-systems            running    2025
+002   scalable-backend               running    2025
+003   game-dev-experiments           running    2018
+005   always-learning-new-tech       running     ∞
+004   open-to-collaborate            listening  always
+```
+  
+  ---
   ## `$ ping soumyajit --message`
 
   <div align="center">
@@ -228,7 +264,7 @@
 
   <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_SLUG)
+  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyajit-sadhukhan/)
   [![Email](https://img.shields.io/badge/Drop_an_Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:soumyajit010805@gmail.com)
 
   <br/>
@@ -237,4 +273,4 @@
 
   </div>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&animation=fadeIn&bg=0D1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003B00,50:00FF41,100:003B00&height=100&section=footer&animation=fadeIn"/>
