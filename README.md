@@ -154,47 +154,51 @@
 
   ## `$ cat /proc/skills`
 
-  <div align="center">
+<div align="center">
 
-  **⚡ AI / LLM Stack**
+<table>
+<tr>
+<td align="center" width="25%">
 
-  ![LangGraph](https://img.shields.io/badge/LangGraph-%2300CC33.svg?style=for-the-badge&logoColor=black)
-  ![LangChain](https://img.shields.io/badge/LangChain-%2300FF41.svg?style=for-the-badge&logoColor=black)
+**⚡ AI / LLM Stack**
 
-  **🐍 Languages**
+![LangGraph](https://img.shields.io/badge/LangGraph-%2300FF41.svg?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-%2300CC33.svg?style=for-the-badge&logoColor=black)
+![CrewAI](https://img.shields.io/badge/CrewAI-%23009900.svg?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</td>
+<td align="center" width="25%">
 
+**🐍 Languages & Backend**
 
-  **🔗 API Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+</td>
+<td align="center" width="25%">
 
+**🗃️ Databases & Vector Stores**
 
-  **🗃️ Databases & Vector Stores**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+</td>
+<td align="center" width="25%">
 
-  </div>
+**🐳 DevOps & Tools**
 
-  ---
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-  ## `$ git log --oneline --graph`
+</td>
+</tr>
+</table>
 
-  <div align="center">
-
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Soumyajit-io&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00CC33&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true"/>
-
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajit-io&layout=compact&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=c9d1d9"/>
-
-  </div>
-
-  <div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Soumyajit-io&theme=terminal&background=0D1117&border=00FF41&stroke=00FF41&ring=00CC33&fire=00FF41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=00CC33&dates=888888&font=Fira+Code)](https://git.io/streak-stats)
-
-  </div>
+</div>
 
   ---
 
