@@ -23,7 +23,7 @@
 
   <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN_SLUG](https://www.linkedin.com/in/soumyajit-sadhukhan/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyajit-sadhukhan/)
   [![Email](https://img.shields.io/badge/Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:soumyajit010805@gmail.com)
   
   <br/>
