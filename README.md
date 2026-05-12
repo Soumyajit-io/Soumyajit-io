@@ -94,8 +94,39 @@
 
   </details>
 
+  
+
   <details>
-  <summary><b><code>📡  [02] AI-Powered Fact Check System</code></b></summary>
+  <summary><b><code>🤖  [02] AI Sales Agent</code></b></summary>
+
+  <br/>
+
+  ```bash
+  soumyajit@dev:~$ deploy sales_agent.py --mode=production
+
+  [*] Loading product knowledge......  ✓
+  [*] Indexing objection handlers....  ✓
+  [*] Spinning up agent persona......  ✓
+  [*] Starting listener on :8080.....  ✓
+
+  AGENT STATUS: LIVE 24/7 — uptime: 99.98%
+  > "Hello! How can I help you today?"
+  ```
+
+  > **A virtual salesman that never sleeps, never tires, never misses a lead.**
+  > Handles objections, understands context, and closes — autonomously.
+
+  ![LangGraph](https://img.shields.io/badge/LangGraph-00FF41?style=flat-square)
+  ![Agentic_AI](https://img.shields.io/badge/Agentic_AI-009900?style=flat-square)
+  ![Python](https://img.shields.io/badge/Python-006600?style=flat-square&logo=python&logoColor=white)
+
+  [**→ View Repository**](https://github.com/Soumyajit-io/AI-sales-agent)
+
+  <br/>
+
+  </details>
+ <details>
+  <summary><b><code>📡  [03] AI-Powered Fact Check System (Team project)</code></b></summary>
 
   <br/>
 
@@ -124,37 +155,6 @@
   <br/>
 
   </details>
-
-  <details>
-  <summary><b><code>🤖  [03] AI Sales Agent</code></b></summary>
-
-  <br/>
-
-  ```bash
-  soumyajit@dev:~$ deploy sales_agent.py --mode=production
-
-  [*] Loading product knowledge......  ✓
-  [*] Indexing objection handlers....  ✓
-  [*] Spinning up agent persona......  ✓
-  [*] Starting listener on :8080.....  ✓
-
-  AGENT STATUS: LIVE 24/7 — uptime: 99.98%
-  > "Hello! How can I help you today?"
-  ```
-
-  > **A virtual salesman that never sleeps, never tires, never misses a lead.**
-  > Handles objections, understands context, and closes — autonomously.
-
-  ![LangGraph](https://img.shields.io/badge/LangGraph-00FF41?style=flat-square)
-  ![Agentic_AI](https://img.shields.io/badge/Agentic_AI-009900?style=flat-square)
-  ![Python](https://img.shields.io/badge/Python-006600?style=flat-square&logo=python&logoColor=white)
-
-  [**→ View Repository**](https://github.com/Soumyajit-io/AI-sales-agent)
-
-  <br/>
-
-  </details>
-
   
 
   ---
